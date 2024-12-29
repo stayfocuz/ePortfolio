@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #333;
+    color: #ddd;
+}
+
+.profile-photo {
+    max-width: 150px;
+    height: auto;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-radius: 10px;
+}
+
+footer p {
+    margin: 0;
+}
+
+.carousel-caption {
+    background: rgba(255, 255, 255, 0.8); /* Light background for better readability */
+    padding: 1em;
+    border-radius: 10px;
+    color: #000; /* Black text color */
+}
